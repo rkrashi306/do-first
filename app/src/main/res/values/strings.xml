@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Do First</string>
+    <string name="a11y_desc">Do First only checks which app is open. When you open an app you marked as distracting while you still have tasks left, it buzzes and shows your top task. It never reads what is on your screen.</string>
+</resources>
